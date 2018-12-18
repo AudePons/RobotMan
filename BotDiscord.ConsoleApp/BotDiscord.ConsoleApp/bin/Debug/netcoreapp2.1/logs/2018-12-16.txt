@@ -1,0 +1,560 @@
+01:28:18 [Info] Discord: Discord.Net v1.0.2 (API v6)
+01:28:20 [Verbose] Rest: GET voice/regions: 1373,26 ms
+01:28:20 [Info] Gateway: Connecting
+01:28:20 [Verbose] Rest: GET gateway: 157,73 ms
+01:28:22 [Info] Gateway: Connected
+01:28:22 [Verbose] Gateway: Connected to Discord-Bot
+01:28:22 [Info] Gateway: Ready
+01:28:29 [Verbose] Rest: POST channels/520227326605131783/messages: 307,17 ms
+01:28:29 [Verbose] Command: Executed "start" for Aude Petit Nems#4305 in Discord-Bot/général
+01:28:34 [Verbose] Rest: POST channels/520227326605131783/messages: 305,83 ms
+01:28:34 [Verbose] Command: Executed "indice" for Aude Petit Nems#4305 in Discord-Bot/général
+01:28:38 [Verbose] Rest: POST channels/520227326605131783/messages: 284,32 ms
+01:28:38 [Verbose] Command: Executed "chance" for Aude Petit Nems#4305 in Discord-Bot/général
+01:28:41 [Verbose] Rest: POST channels/520227326605131783/messages: 303,48 ms
+01:28:41 [Verbose] Command: Executed "find" for Aude Petit Nems#4305 in Discord-Bot/général
+01:28:45 [Verbose] Rest: POST channels/520227326605131783/messages: 247,26 ms
+01:28:45 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+01:43:48 [Info] Discord: Discord.Net v1.0.2 (API v6)
+01:43:49 [Verbose] Rest: GET voice/regions: 903,43 ms
+01:43:49 [Info] Gateway: Connecting
+01:43:49 [Verbose] Rest: GET gateway: 75,02 ms
+01:43:51 [Info] Gateway: Connected
+01:43:51 [Verbose] Gateway: Connected to Discord-Bot
+01:43:52 [Info] Gateway: Ready
+01:43:59 [Verbose] Rest: POST channels/520227326605131783/messages: 223,65 ms
+01:43:59 [Verbose] Command: Executed "start" for Aude Petit Nems#4305 in Discord-Bot/général
+01:44:03 [Verbose] Rest: POST channels/520227326605131783/messages: 254,53 ms
+01:44:04 [Verbose] Command: Executed "chance" for Aude Petit Nems#4305 in Discord-Bot/général
+01:44:08 [Verbose] Rest: POST channels/520227326605131783/messages: 306,02 ms
+01:44:08 [Verbose] Command: Executed "find" for Aude Petit Nems#4305 in Discord-Bot/général
+01:44:13 [Verbose] Rest: POST channels/520227326605131783/messages: 306,55 ms
+01:44:13 [Verbose] Command: Executed "indice" for Aude Petit Nems#4305 in Discord-Bot/général
+01:44:17 [Verbose] Rest: POST channels/520227326605131783/messages: 315,35 ms
+01:44:17 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+01:44:28 [Verbose] Rest: POST channels/520227326605131783/messages: 276,74 ms
+01:44:28 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+01:44:37 [Verbose] Rest: POST channels/520227326605131783/messages: 308,87 ms
+01:44:37 [Verbose] Command: Executed "chance" for Aude Petit Nems#4305 in Discord-Bot/général
+01:44:42 [Verbose] Rest: POST channels/520227326605131783/messages: 201,92 ms
+01:44:42 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+01:44:49 [Verbose] Rest: POST channels/520227326605131783/messages: 249,78 ms
+01:44:49 [Verbose] Command: Executed "chance" for Aude Petit Nems#4305 in Discord-Bot/général
+01:44:52 [Verbose] Rest: POST channels/520227326605131783/messages: 303,53 ms
+01:44:52 [Verbose] Command: Executed "find" for Aude Petit Nems#4305 in Discord-Bot/général
+01:45:07 [Verbose] Rest: POST channels/520227326605131783/messages: 307,15 ms
+01:45:07 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+01:45:12 [Verbose] Rest: POST channels/520227326605131783/messages: 295,02 ms
+01:45:12 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+01:45:17 [Verbose] Rest: POST channels/520227326605131783/messages: 286,57 ms
+01:45:17 [Verbose] Command: Executed "chance" for Aude Petit Nems#4305 in Discord-Bot/général
+01:45:23 [Verbose] Rest: POST channels/520227326605131783/messages: 204,73 ms
+01:45:23 [Verbose] Command: Executed "find" for Aude Petit Nems#4305 in Discord-Bot/général
+01:45:27 [Verbose] Rest: POST channels/520227326605131783/messages: 219,57 ms
+01:45:27 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+01:45:33 [Verbose] Rest: POST channels/520227326605131783/messages: 201,99 ms
+01:45:33 [Verbose] Command: Executed "find" for Aude Petit Nems#4305 in Discord-Bot/général
+01:54:53 [Info] Discord: Discord.Net v1.0.2 (API v6)
+01:54:54 [Verbose] Rest: GET voice/regions: 911,89 ms
+01:54:54 [Info] Gateway: Connecting
+01:54:54 [Verbose] Rest: GET gateway: 73,02 ms
+01:54:56 [Info] Gateway: Connected
+01:54:56 [Verbose] Gateway: Connected to Discord-Bot
+01:54:56 [Info] Gateway: Ready
+01:55:01 [Verbose] Rest: POST channels/520227326605131783/messages: 321,05 ms
+01:55:01 [Verbose] Command: Executed "start" for Aude Petit Nems#4305 in Discord-Bot/général
+01:55:06 [Verbose] Rest: POST channels/520227326605131783/messages: 304,55 ms
+01:55:06 [Verbose] Command: Executed "chance" for Aude Petit Nems#4305 in Discord-Bot/général
+01:55:10 [Verbose] Rest: POST channels/520227326605131783/messages: 314,19 ms
+01:55:10 [Verbose] Command: Executed "find" for Aude Petit Nems#4305 in Discord-Bot/général
+01:55:18 [Verbose] Rest: POST channels/520227326605131783/messages: 322,93 ms
+01:55:18 [Verbose] Command: Executed "indice" for Aude Petit Nems#4305 in Discord-Bot/général
+01:55:23 [Verbose] Rest: POST channels/520227326605131783/messages: 305,42 ms
+01:55:23 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+02:02:03 [Info] Discord: Discord.Net v1.0.2 (API v6)
+02:02:04 [Verbose] Rest: GET voice/regions: 656 ms
+02:02:04 [Info] Gateway: Connecting
+02:02:04 [Verbose] Rest: GET gateway: 82,89 ms
+02:02:05 [Info] Gateway: Connected
+02:02:05 [Verbose] Gateway: Connected to Discord-Bot
+02:02:05 [Info] Gateway: Ready
+02:02:10 [Verbose] Rest: POST channels/520227326605131783/messages: 268,26 ms
+02:02:10 [Verbose] Command: Executed "start" for Aude Petit Nems#4305 in Discord-Bot/général
+02:02:16 [Verbose] Rest: POST channels/520227326605131783/messages: 258,26 ms
+02:02:16 [Verbose] Command: Executed "indice" for Aude Petit Nems#4305 in Discord-Bot/général
+02:02:21 [Verbose] Rest: POST channels/520227326605131783/messages: 202,43 ms
+02:02:21 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+02:02:28 [Verbose] Rest: POST channels/520227326605131783/messages: 265,86 ms
+02:02:28 [Verbose] Command: Executed "find" for Aude Petit Nems#4305 in Discord-Bot/général
+02:02:34 [Verbose] Rest: POST channels/520227326605131783/messages: 195,41 ms
+02:02:34 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+02:02:52 [Verbose] Rest: POST channels/520227326605131783/messages: 248,23 ms
+02:02:52 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+02:02:59 [Verbose] Rest: POST channels/520227326605131783/messages: 217,16 ms
+02:02:59 [Verbose] Command: Executed "find" for Aude Petit Nems#4305 in Discord-Bot/général
+02:03:50 [Info] Discord: Discord.Net v1.0.2 (API v6)
+02:03:50 [Verbose] Rest: GET voice/regions: 610,04 ms
+02:03:51 [Info] Gateway: Connecting
+02:03:51 [Verbose] Rest: GET gateway: 66,12 ms
+02:03:52 [Info] Gateway: Connected
+02:03:52 [Verbose] Gateway: Connected to Discord-Bot
+02:03:52 [Info] Gateway: Ready
+02:03:56 [Verbose] Rest: POST channels/520227326605131783/messages: 240,76 ms
+02:03:56 [Verbose] Command: Executed "start" for Aude Petit Nems#4305 in Discord-Bot/général
+02:03:59 [Verbose] Rest: POST channels/520227326605131783/messages: 241,84 ms
+02:03:59 [Verbose] Command: Executed "indice" for Aude Petit Nems#4305 in Discord-Bot/général
+02:04:05 [Verbose] Rest: POST channels/520227326605131783/messages: 200,61 ms
+02:04:05 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+02:04:50 [Info] Discord: Discord.Net v1.0.2 (API v6)
+02:04:51 [Verbose] Rest: GET voice/regions: 734,67 ms
+02:04:51 [Info] Gateway: Connecting
+02:04:51 [Verbose] Rest: GET gateway: 67 ms
+02:04:52 [Info] Gateway: Connected
+02:04:52 [Verbose] Gateway: Connected to Discord-Bot
+02:04:52 [Info] Gateway: Ready
+02:05:54 [Verbose] Rest: POST channels/520227326605131783/messages: 268,44 ms
+02:05:54 [Verbose] Command: Executed "start" for Aude Petit Nems#4305 in Discord-Bot/général
+02:05:57 [Verbose] Rest: POST channels/520227326605131783/messages: 204,91 ms
+02:05:57 [Verbose] Command: Executed "indice" for Aude Petit Nems#4305 in Discord-Bot/général
+02:06:04 [Verbose] Rest: POST channels/520227326605131783/messages: 212,17 ms
+02:06:04 [Verbose] Command: Executed "find" for Aude Petit Nems#4305 in Discord-Bot/général
+02:06:11 [Verbose] Rest: POST channels/520227326605131783/messages: 210,1 ms
+02:06:11 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+02:06:16 [Verbose] Rest: POST channels/520227326605131783/messages: 195,57 ms
+02:06:16 [Verbose] Command: Executed "find" for Aude Petit Nems#4305 in Discord-Bot/général
+02:06:40 [Verbose] Rest: POST channels/520227326605131783/messages: 244,93 ms
+02:06:40 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+02:06:48 [Verbose] Rest: POST channels/520227326605131783/messages: 193,66 ms
+02:06:48 [Verbose] Command: Executed "find" for Aude Petit Nems#4305 in Discord-Bot/général
+02:06:57 [Verbose] Rest: POST channels/520227326605131783/messages: 207,87 ms
+02:06:57 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+02:07:00 [Verbose] Rest: POST channels/520227326605131783/messages: 197,66 ms
+02:07:00 [Verbose] Command: Executed "find" for Aude Petit Nems#4305 in Discord-Bot/général
+02:07:05 [Verbose] Rest: POST channels/520227326605131783/messages: 206,65 ms
+02:07:05 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+02:07:38 [Verbose] Rest: POST channels/520227326605131783/messages: 221,02 ms
+02:07:38 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+02:08:16 [Info] Discord: Discord.Net v1.0.2 (API v6)
+02:08:17 [Verbose] Rest: GET voice/regions: 662,02 ms
+02:08:17 [Info] Gateway: Connecting
+02:08:17 [Verbose] Rest: GET gateway: 83,89 ms
+02:08:18 [Info] Gateway: Connected
+02:08:18 [Verbose] Gateway: Connected to Discord-Bot
+02:08:18 [Info] Gateway: Ready
+02:08:24 [Verbose] Rest: POST channels/520227326605131783/messages: 236,54 ms
+02:08:24 [Verbose] Command: Executed "start" for Aude Petit Nems#4305 in Discord-Bot/général
+02:08:27 [Verbose] Rest: POST channels/520227326605131783/messages: 210,59 ms
+02:08:27 [Verbose] Command: Executed "indice" for Aude Petit Nems#4305 in Discord-Bot/général
+02:08:33 [Verbose] Rest: POST channels/520227326605131783/messages: 193,7 ms
+02:08:33 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+02:08:43 [Verbose] Rest: POST channels/520227326605131783/messages: 197,07 ms
+02:08:43 [Verbose] Command: Executed "find" for Aude Petit Nems#4305 in Discord-Bot/général
+02:34:16 [Info] Discord: Discord.Net v1.0.2 (API v6)
+02:34:16 [Verbose] Rest: GET voice/regions: 642,07 ms
+02:34:17 [Info] Gateway: Connecting
+02:34:17 [Verbose] Rest: GET gateway: 70,2 ms
+02:34:18 [Info] Gateway: Connected
+02:34:18 [Verbose] Gateway: Connected to Discord-Bot
+02:34:18 [Info] Gateway: Ready
+02:34:24 [Verbose] Rest: POST channels/520227326605131783/messages: 209,5 ms
+02:34:24 [Verbose] Command: Executed "start" for Aude Petit Nems#4305 in Discord-Bot/général
+02:34:28 [Verbose] Rest: POST channels/520227326605131783/messages: 201,02 ms
+02:34:28 [Verbose] Command: Executed "indice" for Aude Petit Nems#4305 in Discord-Bot/général
+02:34:33 [Verbose] Rest: POST channels/520227326605131783/messages: 352,77 ms
+02:34:33 [Verbose] Command: Executed "find" for Aude Petit Nems#4305 in Discord-Bot/général
+02:34:38 [Verbose] Rest: POST channels/520227326605131783/messages: 254,59 ms
+02:34:38 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+02:34:42 [Verbose] Rest: POST channels/520227326605131783/messages: 255,53 ms
+02:34:42 [Verbose] Command: Executed "chance" for Aude Petit Nems#4305 in Discord-Bot/général
+02:34:48 [Verbose] Rest: POST channels/520227326605131783/messages: 700,2 ms
+02:34:48 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+02:34:53 [Verbose] Rest: POST channels/520227326605131783/messages: 198,44 ms
+02:34:53 [Verbose] Command: Executed "chance" for Aude Petit Nems#4305 in Discord-Bot/général
+02:34:57 [Verbose] Rest: POST channels/520227326605131783/messages: 236,04 ms
+02:34:57 [Verbose] Command: Executed "find" for Aude Petit Nems#4305 in Discord-Bot/général
+02:35:01 [Verbose] Rest: POST channels/520227326605131783/messages: 205,42 ms
+02:35:01 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+02:35:04 [Verbose] Rest: POST channels/520227326605131783/messages: 256,6 ms
+02:35:04 [Verbose] Command: Executed "find" for Aude Petit Nems#4305 in Discord-Bot/général
+02:35:10 [Verbose] Rest: POST channels/520227326605131783/messages: 587,98 ms
+02:35:10 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+02:35:14 [Verbose] Rest: POST channels/520227326605131783/messages: 215,12 ms
+02:35:14 [Verbose] Command: Executed "find" for Aude Petit Nems#4305 in Discord-Bot/général
+02:35:20 [Verbose] Rest: POST channels/520227326605131783/messages: 195,21 ms
+02:35:20 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+02:35:26 [Verbose] Rest: POST channels/520227326605131783/messages: 231,38 ms
+02:35:26 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+02:35:30 [Verbose] Rest: POST channels/520227326605131783/messages: 224,89 ms
+02:35:30 [Verbose] Command: Executed "find" for Aude Petit Nems#4305 in Discord-Bot/général
+02:35:35 [Verbose] Rest: POST channels/520227326605131783/messages: 229,5 ms
+02:35:35 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+02:35:41 [Verbose] Rest: POST channels/520227326605131783/messages: 231,93 ms
+02:35:41 [Verbose] Command: Executed "find" for Aude Petit Nems#4305 in Discord-Bot/général
+02:36:02 [Verbose] Rest: POST channels/520227326605131783/messages: 238,83 ms
+02:36:02 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+02:43:08 [Info] Discord: Discord.Net v1.0.2 (API v6)
+02:43:09 [Verbose] Rest: GET voice/regions: 696,23 ms
+02:43:09 [Info] Gateway: Connecting
+02:43:10 [Verbose] Rest: GET gateway: 315,48 ms
+02:43:12 [Info] Gateway: Connected
+02:43:12 [Verbose] Gateway: Connected to Discord-Bot
+02:43:12 [Info] Gateway: Ready
+02:43:13 [Warning] Gateway: Unknown Dispatch (PRESENCES_REPLACE)
+02:43:18 [Verbose] Rest: POST channels/520227326605131783/messages: 207,65 ms
+02:43:18 [Verbose] Command: Executed "start" for Aude Petit Nems#4305 in Discord-Bot/général
+02:43:21 [Verbose] Rest: POST channels/520227326605131783/messages: 216,21 ms
+02:43:21 [Verbose] Command: Executed "indice" for Aude Petit Nems#4305 in Discord-Bot/général
+02:43:23 [Verbose] Rest: POST channels/520227326605131783/messages: 244,39 ms
+02:43:23 [Verbose] Command: Executed "chance" for Aude Petit Nems#4305 in Discord-Bot/général
+02:43:25 [Verbose] Rest: POST channels/520227326605131783/messages: 195,2 ms
+02:43:25 [Verbose] Command: Executed "find" for Aude Petit Nems#4305 in Discord-Bot/général
+02:43:28 [Verbose] Rest: POST channels/520227326605131783/messages: 212,89 ms
+02:43:28 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+02:43:33 [Verbose] Rest: POST channels/520227326605131783/messages: 230,69 ms
+02:43:33 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+02:43:45 [Verbose] Rest: POST channels/520227326605131783/messages: 221,86 ms
+02:43:45 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+02:43:49 [Verbose] Rest: POST channels/520227326605131783/messages: 205,59 ms
+02:43:49 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+02:43:53 [Verbose] Rest: POST channels/520227326605131783/messages: 197 ms
+02:43:53 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+02:43:59 [Verbose] Rest: POST channels/520227326605131783/messages: 192,97 ms
+02:43:59 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+02:44:44 [Info] Discord: Discord.Net v1.0.2 (API v6)
+02:44:44 [Verbose] Rest: GET voice/regions: 687,09 ms
+02:44:44 [Info] Gateway: Connecting
+02:44:44 [Verbose] Rest: GET gateway: 69,78 ms
+02:44:45 [Info] Gateway: Connected
+02:44:46 [Verbose] Gateway: Connected to Discord-Bot
+02:44:46 [Info] Gateway: Ready
+02:44:50 [Verbose] Rest: POST channels/520227326605131783/messages: 210 ms
+02:44:50 [Verbose] Command: Executed "start" for Aude Petit Nems#4305 in Discord-Bot/général
+02:44:52 [Verbose] Rest: POST channels/520227326605131783/messages: 282,95 ms
+02:44:52 [Verbose] Command: Executed "chance" for Aude Petit Nems#4305 in Discord-Bot/général
+02:44:58 [Verbose] Rest: POST channels/520227326605131783/messages: 202,62 ms
+02:44:58 [Verbose] Command: Executed "indice" for Aude Petit Nems#4305 in Discord-Bot/général
+02:45:02 [Verbose] Rest: POST channels/520227326605131783/messages: 216,26 ms
+02:45:02 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+02:45:06 [Verbose] Rest: POST channels/520227326605131783/messages: 207,11 ms
+02:45:06 [Verbose] Command: Executed "find" for Aude Petit Nems#4305 in Discord-Bot/général
+02:45:10 [Verbose] Rest: POST channels/520227326605131783/messages: 254,46 ms
+02:45:10 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+02:45:14 [Verbose] Rest: POST channels/520227326605131783/messages: 197,79 ms
+02:45:14 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+02:45:19 [Verbose] Rest: POST channels/520227326605131783/messages: 395,6 ms
+02:45:19 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+02:45:24 [Verbose] Rest: POST channels/520227326605131783/messages: 1022,17 ms
+02:45:24 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+02:49:28 [Info] Discord: Discord.Net v1.0.2 (API v6)
+02:49:29 [Verbose] Rest: GET voice/regions: 635,74 ms
+02:49:29 [Info] Gateway: Connecting
+02:49:29 [Verbose] Rest: GET gateway: 68,15 ms
+02:49:32 [Info] Gateway: Connected
+02:49:32 [Verbose] Gateway: Connected to Discord-Bot
+02:49:32 [Warning] Gateway: Unknown Dispatch (PRESENCES_REPLACE)
+02:49:32 [Info] Gateway: Ready
+02:49:39 [Verbose] Rest: POST channels/520227326605131783/messages: 232,25 ms
+02:49:42 [Verbose] Rest: POST channels/520227326605131783/messages: 197,89 ms
+02:49:42 [Verbose] Command: Executed "start" for Aude Petit Nems#4305 in Discord-Bot/général
+02:49:45 [Verbose] Rest: POST channels/520227326605131783/messages: 204,97 ms
+02:49:45 [Verbose] Command: Executed "indice" for Aude Petit Nems#4305 in Discord-Bot/général
+02:49:48 [Verbose] Rest: POST channels/520227326605131783/messages: 199,55 ms
+02:49:48 [Verbose] Command: Executed "start" for Aude Petit Nems#4305 in Discord-Bot/général
+02:49:50 [Verbose] Rest: POST channels/520227326605131783/messages: 241,22 ms
+02:49:50 [Verbose] Command: Executed "indice" for Aude Petit Nems#4305 in Discord-Bot/général
+02:49:58 [Verbose] Rest: POST channels/520227326605131783/messages: 203,7 ms
+02:49:58 [Verbose] Command: Executed "find" for Aude Petit Nems#4305 in Discord-Bot/général
+02:50:02 [Verbose] Rest: POST channels/520227326605131783/messages: 271,55 ms
+02:50:02 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+02:50:05 [Verbose] Rest: POST channels/520227326605131783/messages: 216,74 ms
+02:50:05 [Verbose] Command: Executed "find" for Aude Petit Nems#4305 in Discord-Bot/général
+02:50:09 [Verbose] Rest: POST channels/520227326605131783/messages: 257,38 ms
+02:50:09 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+02:50:14 [Verbose] Rest: POST channels/520227326605131783/messages: 311,82 ms
+02:50:14 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+02:50:18 [Verbose] Rest: POST channels/520227326605131783/messages: 194,6 ms
+02:50:18 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+02:50:21 [Verbose] Rest: POST channels/520227326605131783/messages: 240,68 ms
+02:50:21 [Verbose] Command: Executed "find" for Aude Petit Nems#4305 in Discord-Bot/général
+02:50:25 [Verbose] Rest: POST channels/520227326605131783/messages: 210,86 ms
+02:50:25 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+02:50:27 [Verbose] Rest: POST channels/520227326605131783/messages: 224,4 ms
+02:50:27 [Verbose] Command: Executed "find" for Aude Petit Nems#4305 in Discord-Bot/général
+02:50:29 [Warning] Rest: Preemptive Rate limit triggered: channels/520227326605131783/messages
+02:50:33 [Verbose] Rest: POST channels/520227326605131783/messages: 3399,98 ms
+02:50:33 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+02:50:34 [Verbose] Rest: POST channels/520227326605131783/messages: 318,84 ms
+02:50:34 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+02:50:51 [Verbose] Rest: POST channels/520227326605131783/messages: 253,59 ms
+02:50:51 [Verbose] Command: Executed "start" for Aude Petit Nems#4305 in Discord-Bot/général
+02:50:53 [Verbose] Rest: POST channels/520227326605131783/messages: 205,16 ms
+02:50:53 [Verbose] Command: Executed "indice" for Aude Petit Nems#4305 in Discord-Bot/général
+02:50:58 [Verbose] Rest: POST channels/520227326605131783/messages: 236,01 ms
+02:50:58 [Verbose] Command: Executed "find" for Aude Petit Nems#4305 in Discord-Bot/général
+02:51:17 [Info] Discord: Discord.Net v1.0.2 (API v6)
+02:51:18 [Verbose] Rest: GET voice/regions: 591,43 ms
+02:51:18 [Info] Gateway: Connecting
+02:51:18 [Verbose] Rest: GET gateway: 67,29 ms
+02:51:19 [Info] Gateway: Connected
+02:51:19 [Verbose] Gateway: Connected to Discord-Bot
+02:51:19 [Info] Gateway: Ready
+02:51:30 [Verbose] Rest: POST channels/520227326605131783/messages: 225,05 ms
+02:51:30 [Verbose] Command: Executed "start" for Aude Petit Nems#4305 in Discord-Bot/général
+02:51:33 [Verbose] Rest: POST channels/520227326605131783/messages: 215,67 ms
+02:51:33 [Verbose] Command: Executed "indice" for Aude Petit Nems#4305 in Discord-Bot/général
+02:51:36 [Verbose] Rest: POST channels/520227326605131783/messages: 196,59 ms
+02:51:36 [Verbose] Command: Executed "start" for Aude Petit Nems#4305 in Discord-Bot/général
+02:51:38 [Verbose] Rest: POST channels/520227326605131783/messages: 213,76 ms
+02:51:42 [Verbose] Rest: POST channels/520227326605131783/messages: 307,08 ms
+02:51:42 [Verbose] Command: Executed "indice" for Aude Petit Nems#4305 in Discord-Bot/général
+02:51:50 [Verbose] Rest: POST channels/520227326605131783/messages: 216,74 ms
+02:51:50 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+02:51:59 [Info] Discord: Discord.Net v1.0.2 (API v6)
+02:52:00 [Verbose] Rest: GET voice/regions: 698,01 ms
+02:52:00 [Info] Gateway: Connecting
+02:52:00 [Verbose] Rest: GET gateway: 81,53 ms
+02:52:01 [Info] Gateway: Connected
+02:52:01 [Verbose] Gateway: Connected to Discord-Bot
+02:52:01 [Info] Gateway: Ready
+02:52:05 [Verbose] Rest: POST channels/520227326605131783/messages: 223,43 ms
+02:52:05 [Verbose] Command: Executed "start" for Aude Petit Nems#4305 in Discord-Bot/général
+02:52:08 [Verbose] Rest: POST channels/520227326605131783/messages: 280,58 ms
+02:52:08 [Verbose] Command: Executed "indice" for Aude Petit Nems#4305 in Discord-Bot/général
+02:52:12 [Verbose] Rest: POST channels/520227326605131783/messages: 279,79 ms
+02:52:12 [Verbose] Command: Executed "start" for Aude Petit Nems#4305 in Discord-Bot/général
+02:52:15 [Verbose] Rest: POST channels/520227326605131783/messages: 195,16 ms
+02:52:15 [Verbose] Command: Executed "indice" for Aude Petit Nems#4305 in Discord-Bot/général
+02:52:18 [Verbose] Rest: POST channels/520227326605131783/messages: 201,27 ms
+02:52:18 [Verbose] Command: Executed "start" for Aude Petit Nems#4305 in Discord-Bot/général
+02:52:20 [Verbose] Rest: POST channels/520227326605131783/messages: 242,04 ms
+02:52:20 [Verbose] Command: Executed "start" for Aude Petit Nems#4305 in Discord-Bot/général
+02:52:22 [Verbose] Rest: POST channels/520227326605131783/messages: 233,22 ms
+02:52:22 [Verbose] Command: Executed "indice" for Aude Petit Nems#4305 in Discord-Bot/général
+05:55:58 [Info] Discord: Discord.Net v1.0.2 (API v6)
+05:56:00 [Verbose] Rest: GET voice/regions: 1488,07 ms
+05:56:00 [Info] Gateway: Connecting
+05:56:01 [Verbose] Rest: GET gateway: 189,8 ms
+05:56:02 [Info] Gateway: Connected
+05:56:02 [Verbose] Gateway: Connected to Discord-Bot
+05:56:03 [Info] Gateway: Ready
+05:56:10 [Verbose] Rest: POST channels/520227326605131783/messages: 388 ms
+05:56:10 [Verbose] Command: Executed "start" for Aude Petit Nems#4305 in Discord-Bot/général
+05:56:14 [Verbose] Rest: POST channels/520227326605131783/messages: 363,86 ms
+05:56:14 [Verbose] Command: Executed "indice" for Aude Petit Nems#4305 in Discord-Bot/général
+05:56:21 [Verbose] Rest: POST channels/520227326605131783/messages: 325,6 ms
+05:56:21 [Verbose] Command: Executed "find" for Aude Petit Nems#4305 in Discord-Bot/général
+05:56:25 [Verbose] Rest: POST channels/520227326605131783/messages: 304,44 ms
+05:56:25 [Verbose] Command: Executed "chance" for Aude Petit Nems#4305 in Discord-Bot/général
+05:56:30 [Verbose] Rest: POST channels/520227326605131783/messages: 301,94 ms
+05:56:30 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+05:56:34 [Verbose] Rest: POST channels/520227326605131783/messages: 304,97 ms
+05:56:34 [Verbose] Command: Executed "chance" for Aude Petit Nems#4305 in Discord-Bot/général
+05:56:40 [Verbose] Rest: POST channels/520227326605131783/messages: 304,27 ms
+05:56:40 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+05:56:45 [Verbose] Rest: POST channels/520227326605131783/messages: 307,09 ms
+05:56:45 [Verbose] Command: Executed "find" for Aude Petit Nems#4305 in Discord-Bot/général
+05:56:50 [Verbose] Rest: POST channels/520227326605131783/messages: 201,66 ms
+05:56:50 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+05:56:56 [Verbose] Rest: POST channels/520227326605131783/messages: 261,25 ms
+05:56:56 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+05:57:00 [Verbose] Rest: POST channels/520227326605131783/messages: 262,73 ms
+05:57:00 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+05:57:11 [Verbose] Rest: POST channels/520227326605131783/messages: 296,73 ms
+06:08:42 [Info] Discord: Discord.Net v1.0.2 (API v6)
+06:08:43 [Verbose] Rest: GET voice/regions: 889,07 ms
+06:08:43 [Info] Gateway: Connecting
+06:08:43 [Verbose] Rest: GET gateway: 94,01 ms
+06:08:46 [Info] Gateway: Connected
+06:08:46 [Verbose] Gateway: Connected to Discord-Bot
+06:08:46 [Info] Gateway: Ready
+06:08:47 [Warning] Gateway: Unknown Dispatch (PRESENCES_REPLACE)
+06:08:51 [Verbose] Rest: POST channels/520227326605131783/messages: 286,93 ms
+06:08:51 [Verbose] Command: Executed "start" for Aude Petit Nems#4305 in Discord-Bot/général
+06:08:54 [Verbose] Rest: POST channels/520227326605131783/messages: 219,1 ms
+06:08:54 [Verbose] Command: Executed "indice" for Aude Petit Nems#4305 in Discord-Bot/général
+06:08:58 [Verbose] Rest: POST channels/520227326605131783/messages: 613,04 ms
+06:08:58 [Verbose] Command: Executed "find" for Aude Petit Nems#4305 in Discord-Bot/général
+06:09:05 [Verbose] Rest: POST channels/520227326605131783/messages: 309,43 ms
+06:09:05 [Verbose] Command: Executed "chance" for Aude Petit Nems#4305 in Discord-Bot/général
+06:09:09 [Verbose] Rest: POST channels/520227326605131783/messages: 306,67 ms
+06:09:13 [Verbose] Rest: POST channels/520227326605131783/messages: 266,72 ms
+06:09:13 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+06:09:18 [Verbose] Rest: POST channels/520227326605131783/messages: 305,57 ms
+06:09:18 [Verbose] Command: Executed "find" for Aude Petit Nems#4305 in Discord-Bot/général
+06:09:26 [Verbose] Rest: POST channels/520227326605131783/messages: 482,24 ms
+06:09:26 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+06:09:30 [Verbose] Rest: POST channels/520227326605131783/messages: 377,44 ms
+06:09:30 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+06:09:34 [Verbose] Rest: POST channels/520227326605131783/messages: 206,67 ms
+06:09:34 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+06:09:38 [Verbose] Rest: POST channels/520227326605131783/messages: 221,2 ms
+06:09:38 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+06:09:40 [Verbose] Rest: POST channels/520227326605131783/messages: 187,88 ms
+06:09:43 [Verbose] Rest: POST channels/520227326605131783/messages: 298,8 ms
+06:09:43 [Verbose] Command: Executed "chance" for Aude Petit Nems#4305 in Discord-Bot/général
+06:09:48 [Verbose] Rest: POST channels/520227326605131783/messages: 408,2 ms
+06:09:48 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+06:09:53 [Verbose] Rest: POST channels/520227326605131783/messages: 304,99 ms
+06:09:53 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+06:10:04 [Verbose] Rest: POST channels/520227326605131783/messages: 400,15 ms
+06:18:45 [Info] Discord: Discord.Net v1.0.2 (API v6)
+06:18:46 [Verbose] Rest: GET voice/regions: 939,28 ms
+06:18:47 [Info] Gateway: Connecting
+06:18:47 [Verbose] Rest: GET gateway: 109,09 ms
+06:18:48 [Info] Gateway: Connected
+06:18:48 [Verbose] Gateway: Connected to Discord-Bot
+06:18:49 [Info] Gateway: Ready
+06:19:05 [Verbose] Rest: POST channels/520227326605131783/messages: 427,24 ms
+06:19:05 [Verbose] Command: Executed "start" for Aude Petit Nems#4305 in Discord-Bot/général
+06:19:08 [Verbose] Rest: POST channels/520227326605131783/messages: 232,85 ms
+06:19:08 [Verbose] Command: Executed "indice" for Aude Petit Nems#4305 in Discord-Bot/général
+06:19:12 [Verbose] Rest: POST channels/520227326605131783/messages: 303,67 ms
+06:19:12 [Verbose] Command: Executed "chance" for Aude Petit Nems#4305 in Discord-Bot/général
+06:19:15 [Verbose] Rest: POST channels/520227326605131783/messages: 278,01 ms
+06:19:15 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+06:19:31 [Verbose] Rest: POST channels/520227326605131783/messages: 258,72 ms
+06:19:31 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+06:19:35 [Verbose] Rest: POST channels/520227326605131783/messages: 253,97 ms
+06:19:35 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+06:19:40 [Verbose] Rest: POST channels/520227326605131783/messages: 209,67 ms
+06:19:40 [Verbose] Command: Executed "indice" for Aude Petit Nems#4305 in Discord-Bot/général
+06:19:56 [Verbose] Rest: POST channels/520227326605131783/messages: 321,98 ms
+06:19:56 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+06:19:59 [Verbose] Rest: POST channels/520227326605131783/messages: 347,45 ms
+06:19:59 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+06:20:02 [Verbose] Rest: POST channels/520227326605131783/messages: 312,81 ms
+06:20:02 [Verbose] Command: Executed "chance" for Aude Petit Nems#4305 in Discord-Bot/général
+06:20:06 [Verbose] Rest: POST channels/520227326605131783/messages: 304,68 ms
+06:20:06 [Verbose] Command: Executed "indice" for Aude Petit Nems#4305 in Discord-Bot/général
+06:20:09 [Verbose] Rest: POST channels/520227326605131783/messages: 259,31 ms
+06:20:09 [Verbose] Command: Executed "find" for Aude Petit Nems#4305 in Discord-Bot/général
+06:20:14 [Verbose] Rest: POST channels/520227326605131783/messages: 310,52 ms
+06:20:14 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+06:20:19 [Verbose] Rest: POST channels/520227326605131783/messages: 716,24 ms
+06:20:19 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+06:20:24 [Verbose] Rest: POST channels/520227326605131783/messages: 271,33 ms
+06:20:24 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+06:20:30 [Verbose] Rest: POST channels/520227326605131783/messages: 301,75 ms
+06:20:30 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+06:20:33 [Verbose] Rest: POST channels/520227326605131783/messages: 304,19 ms
+06:20:33 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+06:20:42 [Verbose] Rest: POST channels/520227326605131783/messages: 309,99 ms
+06:20:42 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+06:21:34 [Verbose] Rest: POST channels/520227326605131783/messages: 307,62 ms
+06:21:34 [Verbose] Command: Executed "start" for Aude Petit Nems#4305 in Discord-Bot/général
+06:22:55 [Verbose] Rest: POST channels/520227326605131783/messages: 308,93 ms
+06:23:02 [Verbose] Rest: POST channels/520227326605131783/messages: 329,18 ms
+06:23:02 [Verbose] Command: Executed "indice" for Aude Petit Nems#4305 in Discord-Bot/général
+06:23:07 [Verbose] Rest: POST channels/520227326605131783/messages: 236 ms
+06:23:07 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+06:24:39 [Info] Discord: Discord.Net v1.0.2 (API v6)
+06:24:40 [Verbose] Rest: GET voice/regions: 962,22 ms
+06:24:40 [Info] Gateway: Connecting
+06:24:40 [Verbose] Rest: GET gateway: 94,94 ms
+06:24:41 [Info] Gateway: Connected
+06:24:42 [Verbose] Gateway: Connected to Discord-Bot
+06:24:42 [Info] Gateway: Ready
+06:24:47 [Verbose] Rest: POST channels/520227326605131783/messages: 235,89 ms
+06:24:47 [Verbose] Command: Executed "start" for Aude Petit Nems#4305 in Discord-Bot/général
+06:24:50 [Verbose] Rest: POST channels/520227326605131783/messages: 275,66 ms
+06:24:50 [Verbose] Command: Executed "indice" for Aude Petit Nems#4305 in Discord-Bot/général
+06:24:54 [Verbose] Rest: POST channels/520227326605131783/messages: 373,9 ms
+06:24:54 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+06:24:59 [Verbose] Rest: POST channels/520227326605131783/messages: 401,33 ms
+06:24:59 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+06:25:05 [Verbose] Rest: POST channels/520227326605131783/messages: 304,49 ms
+06:25:05 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+06:25:09 [Verbose] Rest: POST channels/520227326605131783/messages: 188,25 ms
+06:25:09 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+06:25:12 [Verbose] Rest: POST channels/520227326605131783/messages: 303,63 ms
+06:25:12 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+06:25:15 [Verbose] Rest: POST channels/520227326605131783/messages: 406,71 ms
+06:25:15 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+06:25:19 [Verbose] Rest: POST channels/520227326605131783/messages: 306,76 ms
+06:25:19 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+06:25:22 [Verbose] Rest: POST channels/520227326605131783/messages: 305,57 ms
+06:25:22 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+06:25:26 [Verbose] Rest: POST channels/520227326605131783/messages: 304,48 ms
+06:25:26 [Verbose] Command: Executed "chance" for Aude Petit Nems#4305 in Discord-Bot/général
+06:25:29 [Verbose] Rest: POST channels/520227326605131783/messages: 205,14 ms
+06:25:29 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+06:25:34 [Verbose] Rest: POST channels/520227326605131783/messages: 306,72 ms
+06:25:34 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+06:25:39 [Verbose] Rest: POST channels/520227326605131783/messages: 305,33 ms
+06:25:39 [Verbose] Command: Executed "start" for Aude Petit Nems#4305 in Discord-Bot/général
+06:25:43 [Verbose] Rest: POST channels/520227326605131783/messages: 303,02 ms
+06:25:43 [Verbose] Command: Executed "indice" for Aude Petit Nems#4305 in Discord-Bot/général
+06:25:47 [Verbose] Rest: POST channels/520227326605131783/messages: 307,05 ms
+06:25:50 [Verbose] Rest: POST channels/520227326605131783/messages: 303,84 ms
+06:25:50 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+06:26:38 [Info] Discord: Discord.Net v1.0.2 (API v6)
+06:26:39 [Verbose] Rest: GET voice/regions: 1093,5 ms
+06:26:40 [Info] Gateway: Connecting
+06:26:40 [Verbose] Rest: GET gateway: 81,24 ms
+06:26:41 [Info] Gateway: Connected
+06:26:41 [Verbose] Gateway: Connected to Discord-Bot
+06:26:42 [Info] Gateway: Ready
+06:26:47 [Verbose] Rest: POST channels/520227326605131783/messages: 260,83 ms
+06:26:47 [Verbose] Command: Executed "start" for Aude Petit Nems#4305 in Discord-Bot/général
+06:26:51 [Verbose] Rest: POST channels/520227326605131783/messages: 305,75 ms
+06:26:51 [Verbose] Command: Executed "indice" for Aude Petit Nems#4305 in Discord-Bot/général
+06:27:15 [Verbose] Rest: POST channels/520227326605131783/messages: 385,46 ms
+06:27:15 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+06:27:22 [Verbose] Rest: POST channels/520227326605131783/messages: 208,35 ms
+06:27:22 [Verbose] Command: Executed "start" for Aude Petit Nems#4305 in Discord-Bot/général
+06:27:26 [Verbose] Rest: POST channels/520227326605131783/messages: 202,81 ms
+06:27:26 [Verbose] Command: Executed "indice" for Aude Petit Nems#4305 in Discord-Bot/général
+06:27:29 [Verbose] Rest: POST channels/520227326605131783/messages: 304,43 ms
+06:27:29 [Verbose] Command: Executed "start" for Aude Petit Nems#4305 in Discord-Bot/général
+06:27:31 [Verbose] Rest: POST channels/520227326605131783/messages: 266,41 ms
+06:27:31 [Verbose] Command: Executed "indice" for Aude Petit Nems#4305 in Discord-Bot/général
+06:27:35 [Verbose] Rest: POST channels/520227326605131783/messages: 305,42 ms
+06:27:35 [Verbose] Command: Executed "start" for Aude Petit Nems#4305 in Discord-Bot/général
+06:27:39 [Verbose] Rest: POST channels/520227326605131783/messages: 201,5 ms
+06:27:39 [Verbose] Command: Executed "indice" for Aude Petit Nems#4305 in Discord-Bot/général
+06:27:44 [Verbose] Rest: POST channels/520227326605131783/messages: 293,84 ms
+06:27:44 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+06:27:51 [Verbose] Rest: POST channels/520227326605131783/messages: 214,53 ms
+06:27:51 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+06:27:59 [Verbose] Rest: POST channels/520227326605131783/messages: 356,37 ms
+06:27:59 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+06:30:24 [Info] Discord: Discord.Net v1.0.2 (API v6)
+06:30:25 [Verbose] Rest: GET voice/regions: 991,8 ms
+06:30:25 [Info] Gateway: Connecting
+06:30:25 [Verbose] Rest: GET gateway: 90,91 ms
+06:30:28 [Info] Gateway: Connected
+06:30:28 [Verbose] Gateway: Connected to Discord-Bot
+06:30:28 [Info] Gateway: Ready
+06:30:36 [Verbose] Rest: POST channels/520227326605131783/messages: 259,75 ms
+06:30:36 [Verbose] Command: Executed "start" for Aude Petit Nems#4305 in Discord-Bot/général
+06:30:40 [Verbose] Rest: POST channels/520227326605131783/messages: 686,71 ms
+06:30:40 [Verbose] Command: Executed "indice" for Aude Petit Nems#4305 in Discord-Bot/général
+06:30:42 [Verbose] Rest: POST channels/520227326605131783/messages: 277,12 ms
+06:30:42 [Verbose] Command: Executed "forfeit" for Aude Petit Nems#4305 in Discord-Bot/général
+06:30:47 [Verbose] Rest: POST channels/520227326605131783/messages: 203,15 ms
+06:30:47 [Verbose] Command: Executed "start" for Aude Petit Nems#4305 in Discord-Bot/général
+06:30:51 [Verbose] Rest: POST channels/520227326605131783/messages: 304,68 ms
+06:30:51 [Verbose] Command: Executed "forfeit" for Aude Petit Nems#4305 in Discord-Bot/général
+06:31:52 [Verbose] Rest: POST channels/520227326605131783/messages: 302,34 ms
+06:31:52 [Verbose] Command: Executed "start" for Aude Petit Nems#4305 in Discord-Bot/général
+06:31:56 [Verbose] Rest: POST channels/520227326605131783/messages: 204,87 ms
+06:31:56 [Verbose] Command: Executed "forfeit" for Aude Petit Nems#4305 in Discord-Bot/général
+06:50:15 [Info] Discord: Discord.Net v1.0.2 (API v6)
+06:50:16 [Verbose] Rest: GET voice/regions: 1198,74 ms
+06:50:16 [Info] Gateway: Connecting
+06:50:16 [Verbose] Rest: GET gateway: 106,37 ms
+06:50:18 [Info] Gateway: Connected
+06:50:18 [Verbose] Gateway: Connected to Discord-Bot
+06:50:18 [Info] Gateway: Ready
+06:50:37 [Verbose] Rest: POST channels/520227326605131783/messages: 376,38 ms
+06:50:37 [Verbose] Command: Executed "start" for Aude Petit Nems#4305 in Discord-Bot/général
+06:50:40 [Verbose] Rest: POST channels/520227326605131783/messages: 314,49 ms
+06:50:40 [Verbose] Command: Executed "forfeit" for Aude Petit Nems#4305 in Discord-Bot/général
+06:51:04 [Verbose] Rest: POST channels/520227326605131783/messages: 582,14 ms
+06:51:04 [Verbose] Command: Executed "chance" for Aude Petit Nems#4305 in Discord-Bot/général
+06:51:14 [Verbose] Rest: POST channels/520227326605131783/messages: 283,38 ms
+06:51:14 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+06:51:19 [Verbose] Rest: POST channels/520227326605131783/messages: 316,14 ms
+06:51:19 [Verbose] Command: Executed "letter" for Aude Petit Nems#4305 in Discord-Bot/général
+06:51:28 [Verbose] Rest: POST channels/520227326605131783/messages: 304,76 ms
+06:51:28 [Verbose] Command: Executed "info-hangman" for Aude Petit Nems#4305 in Discord-Bot/général

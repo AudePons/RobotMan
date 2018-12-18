@@ -1,0 +1,51 @@
+C:\Users\Hakim\Desktop\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\bin\Debug\netcoreapp2.1\BotDiscord.ConsoleApp.deps.json
+C:\Users\Hakim\Desktop\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\bin\Debug\netcoreapp2.1\BotDiscord.ConsoleApp.runtimeconfig.json
+C:\Users\Hakim\Desktop\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\bin\Debug\netcoreapp2.1\BotDiscord.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Hakim\Desktop\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\bin\Debug\netcoreapp2.1\BotDiscord.ConsoleApp.dll
+C:\Users\Hakim\Desktop\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\bin\Debug\netcoreapp2.1\BotDiscord.ConsoleApp.pdb
+C:\Users\Hakim\Desktop\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\obj\Debug\netcoreapp2.1\BotDiscord.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Hakim\Desktop\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\obj\Debug\netcoreapp2.1\BotDiscord.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Hakim\Desktop\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\obj\Debug\netcoreapp2.1\BotDiscord.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Hakim\Desktop\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\obj\Debug\netcoreapp2.1\BotDiscord.ConsoleApp.AssemblyInfo.cs
+C:\Users\Hakim\Desktop\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\obj\Debug\netcoreapp2.1\BotDiscord.ConsoleApp.dll
+C:\Users\Hakim\Desktop\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\obj\Debug\netcoreapp2.1\BotDiscord.ConsoleApp.pdb
+C:\Users\Hakim\Desktop\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\bin\Debug\netcoreapp2.1\configuration.json
+C:\Users\Aude PONS\Desktop\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\bin\Debug\netcoreapp2.1\configuration.json
+C:\Users\Aude PONS\Desktop\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\bin\Debug\netcoreapp2.1\BotDiscord.ConsoleApp.deps.json
+C:\Users\Aude PONS\Desktop\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\bin\Debug\netcoreapp2.1\BotDiscord.ConsoleApp.runtimeconfig.json
+C:\Users\Aude PONS\Desktop\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\bin\Debug\netcoreapp2.1\BotDiscord.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Aude PONS\Desktop\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\bin\Debug\netcoreapp2.1\BotDiscord.ConsoleApp.dll
+C:\Users\Aude PONS\Desktop\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\bin\Debug\netcoreapp2.1\BotDiscord.ConsoleApp.pdb
+C:\Users\Aude PONS\Desktop\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\obj\Debug\netcoreapp2.1\BotDiscord.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Aude PONS\Desktop\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\obj\Debug\netcoreapp2.1\BotDiscord.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Aude PONS\Desktop\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\obj\Debug\netcoreapp2.1\BotDiscord.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Aude PONS\Desktop\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\obj\Debug\netcoreapp2.1\BotDiscord.ConsoleApp.AssemblyInfo.cs
+C:\Users\Aude PONS\Desktop\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\obj\Debug\netcoreapp2.1\BotDiscord.ConsoleApp.dll
+C:\Users\Aude PONS\Desktop\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\obj\Debug\netcoreapp2.1\BotDiscord.ConsoleApp.pdb
+C:\Users\Aude PONS\Desktop\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\bin\Debug\netcoreapp2.1\opus.dll
+C:\Users\Aude PONS\Desktop\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\bin\Debug\netcoreapp2.1\Music\Habitue.mp3
+C:\Users\Aude PONS\Desktop\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\bin\Debug\netcoreapp2.1\ffmpeg.exe
+C:\Users\Aude PONS\Desktop\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\bin\Debug\netcoreapp2.1\Music\comme dans un reve.mp3
+C:\Users\Aude PONS\Desktop\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\bin\Debug\netcoreapp2.1\Music\mwaka moon.mp3
+C:\Users\Hakim\Desktop\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\bin\Debug\netcoreapp2.1\ffmpeg.exe
+C:\Users\Hakim\Desktop\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\bin\Debug\netcoreapp2.1\Music\comme dans un reve.mp3
+C:\Users\Hakim\Desktop\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\bin\Debug\netcoreapp2.1\Music\habitue.mp3
+C:\Users\Hakim\Desktop\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\bin\Debug\netcoreapp2.1\Music\mwaka moon.mp3
+C:\Users\Hakim\Desktop\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\bin\Debug\netcoreapp2.1\opus.dll
+C:\Users\Aude PONS\Desktop\NET\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\bin\Debug\netcoreapp2.1\configuration.json
+C:\Users\Aude PONS\Desktop\NET\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\bin\Debug\netcoreapp2.1\ffmpeg.exe
+C:\Users\Aude PONS\Desktop\NET\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\bin\Debug\netcoreapp2.1\Music\comme dans un reve.mp3
+C:\Users\Aude PONS\Desktop\NET\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\bin\Debug\netcoreapp2.1\Music\habitue.mp3
+C:\Users\Aude PONS\Desktop\NET\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\bin\Debug\netcoreapp2.1\Music\mwaka moon.mp3
+C:\Users\Aude PONS\Desktop\NET\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\bin\Debug\netcoreapp2.1\opus.dll
+C:\Users\Aude PONS\Desktop\NET\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\bin\Debug\netcoreapp2.1\BotDiscord.ConsoleApp.deps.json
+C:\Users\Aude PONS\Desktop\NET\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\bin\Debug\netcoreapp2.1\BotDiscord.ConsoleApp.runtimeconfig.json
+C:\Users\Aude PONS\Desktop\NET\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\bin\Debug\netcoreapp2.1\BotDiscord.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Aude PONS\Desktop\NET\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\bin\Debug\netcoreapp2.1\BotDiscord.ConsoleApp.dll
+C:\Users\Aude PONS\Desktop\NET\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\bin\Debug\netcoreapp2.1\BotDiscord.ConsoleApp.pdb
+C:\Users\Aude PONS\Desktop\NET\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\obj\Debug\netcoreapp2.1\BotDiscord.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Aude PONS\Desktop\NET\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\obj\Debug\netcoreapp2.1\BotDiscord.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Aude PONS\Desktop\NET\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\obj\Debug\netcoreapp2.1\BotDiscord.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Aude PONS\Desktop\NET\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\obj\Debug\netcoreapp2.1\BotDiscord.ConsoleApp.AssemblyInfo.cs
+C:\Users\Aude PONS\Desktop\NET\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\obj\Debug\netcoreapp2.1\BotDiscord.ConsoleApp.dll
+C:\Users\Aude PONS\Desktop\NET\BotDiscord.ConsoleApp\BotDiscord.ConsoleApp\obj\Debug\netcoreapp2.1\BotDiscord.ConsoleApp.pdb

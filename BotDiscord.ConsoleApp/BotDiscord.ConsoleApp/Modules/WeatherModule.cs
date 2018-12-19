@@ -20,7 +20,7 @@ namespace BotDiscord.ConsoleApp.Modules
             {
                 String result;
                 WebClient client = new WebClient();
-                String address = @"http://api.openweathermap.org/data/2.5/weather?q="+city+"&APPID=96c5413343267d933f6640af713ba097";
+                String address = @"http://api.openweathermap.org/data/2.5/weather?q="+city+"&APPID=yourtoken";
                 result = client.DownloadString(address);
                 var data = JsonConvert.DeserializeObject<RootObject>(result);
                 string temperature = (data.main.temp - 273.15).ToString();

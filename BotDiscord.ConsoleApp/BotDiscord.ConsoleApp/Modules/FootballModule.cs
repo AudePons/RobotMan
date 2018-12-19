@@ -37,7 +37,7 @@ namespace BotDiscord.ConsoleApp.Modules
                 String result;
                 WebClient client = new WebClient();
                 String address = @"https://api.football-data.org/v2/competitions/" + competition + "/matches?matchday=" + day;
-                client.Headers.Add("X-Auth-Token", "d450ba166a1b4afb9f0129aa5f7aab72");
+                client.Headers.Add("X-Auth-Token", "your token");
 
                 result = client.DownloadString(address);
                 var data = JsonConvert.DeserializeObject<RootObjectMatch>(result);
@@ -65,7 +65,7 @@ namespace BotDiscord.ConsoleApp.Modules
                 String result;
                 WebClient client = new WebClient();
                 String address = @"https://api.football-data.org/v2/competitions/"+competition+"/scorers";
-                client.Headers.Add("X-Auth-Token", "d450ba166a1b4afb9f0129aa5f7aab72");
+                client.Headers.Add("X-Auth-Token", "your token");
                 result = client.DownloadString(address);
                 var data = JsonConvert.DeserializeObject<RootObjectScorers>(result);
                 string rendu = "Voici le top 10 des buteurs de votre championnat : \n \n ";
@@ -100,7 +100,7 @@ namespace BotDiscord.ConsoleApp.Modules
                 {
                     address = @"https://api.football-data.org/v2/matches?competitions=" + competition;
                 }
-                client.Headers.Add("X-Auth-Token", "d450ba166a1b4afb9f0129aa5f7aab72");
+                client.Headers.Add("X-Auth-Token", "your token");
                 result = client.DownloadString(address);
                 var data = JsonConvert.DeserializeObject<RootObjectMatchDay>(result);
                 string played = "Matchs ayant déjà été joués aujourd'hui : \n\n";

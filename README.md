@@ -44,6 +44,11 @@ RobotMan is a project developed by the first year students of MASTER. It consist
 ### Get matches of the day
 !matchday
 ```
+### GamePSRModule.cs
+``` 
+### Play, compare bot value and user value
+!start-psr
+```
 ### HangmanModule.cs
 ``` 
 ### See all the commands to play Hangman Game

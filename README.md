@@ -84,6 +84,28 @@ RobotMan is a project developed by the first year students of MASTER. It consist
 ### Show all available commands according to a module
 !help 
 ```
+### TruepriceModule.cs
+``` 
+### Give all commands to play true price game
+!info-tp
+```
+``` 
+### Initialize the game
+!start-tp 
+```
+``` 
+### User proposition
+### Compare user value and bot value
+!price
+```
+``` 
+### Give the number of test remaining
+!chance-tp
+```
+``` 
+### The user agrees to lose and wants to know the correct answer
+!forfeit-tp
+```
 ## Authors
 * Hakim MAKHTOUR
 * Aude PONS

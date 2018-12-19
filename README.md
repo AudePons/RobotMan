@@ -4,6 +4,7 @@ RobotMan is a project developed by the first year students of MASTER. It consist
 ## API used
 * [DEVELOPER PORTAL](https://discordapp.com/developers/applications/) - For Discord
 * [Football-Data.org](https://www.football-data.org/) - For data
+* [OpenWeatherMap](https://openweathermap.org/api) - For data
 ## Package NuGet
 * [Discord.NET](https://www.nuget.org/packages/Discord.Net/)
 * [Discord.Net.Commands](https://www.nuget.org/packages/Discord.Net.Commands/)
@@ -105,6 +106,11 @@ RobotMan is a project developed by the first year students of MASTER. It consist
 ``` 
 ### The user agrees to lose and wants to know the correct answer
 !forfeit-tp
+```
+### WeatherModule.cs
+``` 
+### Get the weather of your city
+!weather
 ```
 ## Authors
 * Hakim MAKHTOUR
